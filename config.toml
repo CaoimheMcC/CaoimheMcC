@@ -1,4 +1,4 @@
-baseURL = "caoimhemccarthy.com"
+baseURL = "https://caoimhemcc.github.io/"
 languageCode = "en-us"
 title = "Caoimhe McCarthy"
 theme = "hugo-creative-portfolio-theme"
