@@ -7,9 +7,9 @@ title = " Growth Simlutaions"
 weight = 0
 +++
 
-The video below shows simulations of several different growth algorithms implemented in Houdini. Each are done using the VEX programming language. <!--more-->  
+This project shows several different growth algorithms implemented in Houdini. Each are done using the VEX programming language. <!--more-->  
 
-The two growth aogirthms implented are Diffusion Limited Aggregation (DLA) and an infection spread effect. 
+The growth algirthms used are Diffusion Limited Aggregation (DLA) and an infection spread effect. 
 
 Put simply, DLA refers to a noisy growth restricted by diffusion.
 The algorithm is relatively easy to visualise in 2D, consider a seed or particle placed in a fixed location on a grid. Using this principals of DLA described in [1] as a foundation, futher customisations were made, such as adding specific noise and probability.
