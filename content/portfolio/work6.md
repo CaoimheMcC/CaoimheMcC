@@ -7,7 +7,7 @@ title = "RenderMan Lemon"
 weight = 0
 +++
 
-This lemon was created as part of a Simulation and Rendering assignment during the course of my Master's degree. The project was completed using RenderMan and it's API. It was modeled directly in RIB and shaded using OSL (Open Shading Language). <!--more--> 
+As part of a Simulation and Rendering assignment during the course of my Master's degree, this lemon was completed using RenderMan and it's API. It was modeled directly in RIB and shaded using OSL (Open Shading Language). <!--more--> 
 
 ![lemon](/img/portfolio/lemonSingle.jpg)  
     <br> 

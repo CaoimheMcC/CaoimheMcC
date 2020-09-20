@@ -7,7 +7,7 @@ title = " Growth Simlutaions"
 weight = 0
 +++
 
-This project shows several different growth algorithms implemented in Houdini. Each are done using the VEX programming language. <!--more-->  
+The video here demonstrates several different growth algorithms implemented in Houdini. Each are done using the VEX programming language. <!--more-->  
 
 The growth algirthms used are Diffusion Limited Aggregation (DLA) and an infection spread effect. 
 
