@@ -11,8 +11,7 @@ The video here demonstrates several different growth algorithms implemented in H
 
 The growth algirthms used are Diffusion Limited Aggregation (DLA) and an infection spread effect. 
 
-Put simply, DLA refers to a noisy growth restricted by diffusion.
-The algorithm is relatively easy to visualise in 2D, consider a seed or particle placed in a fixed location on a grid. Using this principals of DLA described in [1] as a foundation, futher customisations were made, such as adding specific noise and probability.
+Put simply, DLA refers to a noisy growth restricted by diffusion. The algorithm is relatively easy to visualise in 2D, consider a seed or particle placed in a fixed location on a grid. Using this principals of DLA described in [1] as a foundation, futher customisations were made, such as adding specific noise and probability.
 
 Infection spread effects are used frequently in the industry. Similar to DLA, the infection effect begins with one infected point and spreads iteratively to its nearest
 neighbours. The variables created when implementing an infection spread can be modified to generate whatever visual reuslts an artist may require.

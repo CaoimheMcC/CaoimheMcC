@@ -7,7 +7,7 @@ title = "RenderMan Lemon"
 weight = 0
 +++
 
-As part of a Simulation and Rendering assignment during the course of my Master's degree, this lemon was completed using RenderMan and it's API. It was modeled directly in RIB and shaded using OSL (Open Shading Language). <!--more--> 
+As part of a Simulation and Rendering assignment during the course of my Master's degree, this lemon was completed using RenderMan and it's associated API. It was modeled directly in RIB and shaded using OSL (Open Shading Language). <!--more--> 
 
 ![lemon](/img/portfolio/lemonSingle.jpg)  
     <br> 
@@ -17,7 +17,7 @@ Fractional Brownian Motion (fBm), a continuous-time Gaussian process, was used t
 
 The completion of this project gave me a great understanding of techniques and systems used in modern rendering systems. 
 
+The image below shows primitive sphere models with fBm applied.     <br> 
 
 ![fBm](/img/portfolio/fBm2.jpg) 
 
-Image above shows primitive sphere models with fBm applied.
